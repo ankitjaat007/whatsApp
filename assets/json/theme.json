@@ -1,0 +1,23 @@
+[
+    {
+        "name": "",
+        "images": [
+            "assets/images/light1.jpeg",
+            "assets/images/light2.jpeg"
+        ]
+    },
+    {
+        "name": "",
+        "images": [
+            "assets/images/dark1.jpeg",
+            "assets/images/dark2.jpeg"
+        ]
+    },
+    {
+        "name": "",
+        "images": [
+            "assets/images/solid1.jpeg",
+            "assets/images/solid2.jpeg"
+        ]
+    }
+]

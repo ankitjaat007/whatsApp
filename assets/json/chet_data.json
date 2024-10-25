@@ -1,0 +1,12 @@
+[
+    {
+        "dp":"assets/images/dp1.png",
+        "name":"Aron",
+        "subtitle":"Lorem ipsum dolor sit"
+    },
+    {
+        "dp":"assets/images/dp2.png",
+        "name":"Abelson",
+        "subtitle":"Lorem ipsum dolor sit"
+    }
+]
